@@ -21,6 +21,7 @@ cout<<endl;
 
 int main()
 {
+  system("color 1b");
  char arr[3][3],usymbol,csymbol;
  int i,j,counter=0;
  srand(time(0));
