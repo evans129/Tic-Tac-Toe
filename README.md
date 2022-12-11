@@ -2,4 +2,4 @@
 This is a simple TicTacToe game made using C++
 
 
-![alt](imgtictac.jpg)
+![alt](https://raw.githubusercontent.com/evans129/Tic-Tac-Toe/main/.github/imgtictac.jpg)
